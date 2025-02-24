@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm Wirlhawk 👋
+# Hi there, I'm Ray 👋
 
 Welcome to my GitHub profile!
 
@@ -33,9 +33,9 @@ I am a passionate developer with an interest in various technologies and a love 
 ## Projects
 Here are some of the projects I've been working on:
 
-1. **[Project Name](#)**: A brief description of what this project does.
-2. **[Project Name](#)**: A brief description of what this project does.
-3. **[Project Name](#)**: A brief description of what this project does.
+1. **Pilketos**: A Voting web app used for my school election
+2. **Anonfess(#)**: A Platform to send and confess message to somone anonymously
+3. **Opinion**: A Fullstack social media app
 
 ## Get in Touch
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
