@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ray</h1>
-<h3 align="center">Just a random guy on the internet</h3>
+<h1 >Hi 👋, I'm Ray</h1>
+<h3 >Just a random guy on the internet</h3>
 
 - 🔭 I’m currently working on [Washa](https://github.com/Wirlhawk/washa_mobile)
 
