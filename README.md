@@ -23,12 +23,12 @@ Welcome to my GitHub profile!
 I am a passionate developer with an interest in various technologies and a love for coding. I enjoy learning new things and constantly improving my skills.
 
 ## Skills
-- **Languages**: JavaScript, Python, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js
+- **Languages**: JavaScript, Typescript, Go
+- **Web Development**: NodeJs, React, NextJs, Go
 - **Mobile Development**: Flutter, React Native
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **DevOps**: Docker, Kubernetes, Jenkins
-- **Other Tools**: Git, GitHub, VSCode, IntelliJ
+- **Databases**: MySQL, MongoDB, PostgreSQL, Supabase, Firebase
+- **DevOps**: Docker
+- **Other Tools**: Git, GitHub, VSCode
 
 ## Projects
 Here are some of the projects I've been working on:
